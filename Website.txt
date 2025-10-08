@@ -1,0 +1,9 @@
+平台地址：https://s-hydrogendataplatform.cpolar.top
+以下功能包含于上面平台中（界面上方 AI 分析），也可以通过下述链接访问：
+“氢聊”大模型：http://digital-hydrogen.com:18002/index.html
+FIND 正逆向智能机器学习平台：https://find4hyalloy.zicp.fun/
+账号体验核心功能：
+平台/大模型：游客可以正常访问主要功能。
+FIND 测试账号：test 密码：123456
+技术开源说明：项目相关的 CoT 训练数据集已开源至 Hugging Face 平台
+（链接：https://huggingface.co/datasets/Yy245/cot_2000），供行业研究使用。
