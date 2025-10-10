@@ -1,6 +1,6 @@
 平台地址：https://s-hydrogendataplatform.cpolar.top
 以下功能包含于上面平台中（界面上方 AI 分析），也可以通过下述链接访问：
-“氢聊”大模型：http://digital-hydrogen.com:18002/index.html
+“氢聊”大模型：http://47.121.180.232:18005/chat/share?shareId=wS9DeQBVmmdsSv5RryTzR5eq
 FIND 正逆向智能机器学习平台：https://find4hyalloy.zicp.fun/
 账号体验核心功能：
 平台/大模型：游客可以正常访问主要功能。
