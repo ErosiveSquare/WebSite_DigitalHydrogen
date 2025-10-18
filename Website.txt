@@ -1,4 +1,9 @@
+计算机应用大赛2025
+
 平台地址：https://s-hydrogendataplatform.cpolar.top
+
+如果打不开，请访问：digital-hydrogen.com/storage
+（10.18更改）
 以下功能包含于上面平台中（界面上方 AI 分析），也可以通过下述链接访问：
 “氢聊”大模型：http://47.121.180.232:18005/chat/share?shareId=wS9DeQBVmmdsSv5RryTzR5eq
 FIND 正逆向智能机器学习平台：https://find4hyalloy.zicp.fun/
